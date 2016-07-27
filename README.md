@@ -1,3 +1,11 @@
+This application, ControlLEDLights, was built from a blank Node.js sample application available from the Intel XDK IoT Edition (see notes below). It was written in Intel's JavaScript wrapper for Arduino.
+
+The ControlLEDLights application will flash 3 LED lights on an Intel Edison board: Green, Red, and Blue, one after another, like Christmas lights!
+
+
+-----------------------------
+Boiler-plate README is below:
+
 Blank Node.js IoT App
 ============================
 The Blank Node.js sample application distributed within Intel® XDK IoT Edition under the Internet of Things  project creation option.
