@@ -18,8 +18,8 @@
         "name": "ControlLEDLights.xdk"
       },
       "ControlLEDLights.xdke": {
-        "previousModTime": 1469563915000,
-        "modified": 1469563915000,
+        "previousModTime": 1469627929000,
+        "modified": 1469627929000,
         "seen": true,
         "name": "ControlLEDLights.xdke"
       },
@@ -36,8 +36,8 @@
         "name": "icon.png"
       },
       "main.js": {
-        "previousModTime": 1469564137000,
-        "modified": 1469564137000,
+        "previousModTime": 1469628105000,
+        "modified": 1469628105000,
         "seen": true,
         "name": "main.js"
       },
@@ -58,26 +58,17 @@
         "modified": 1469470274000,
         "seen": true,
         "name": "xdk/project-info.json"
+      },
+      ".gitignore": {
+        "previousModTime": 1469564634000,
+        "modified": 1469564634000,
+        "seen": true,
+        "name": ".gitignore"
       }
     },
     "boardFileStatus": {
-      "README.md": {
-        "previousModTime": 1469564141710
-      },
-      "icon.png": {
-        "previousModTime": 1469564141710
-      },
       "main.js": {
-        "previousModTime": 1469564141710
-      },
-      "package.json": {
-        "previousModTime": 1469564141710
-      },
-      "xdk-publish-meta-data.json": {
-        "previousModTime": 1469564141710
-      },
-      "xdk/project-info.json": {
-        "previousModTime": 1469564141710
+        "previousModTime": 1469628330465
       }
     }
   }
